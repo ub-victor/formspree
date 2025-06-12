@@ -35,3 +35,8 @@ textarea {
 
 }
 
+input:focus-within{
+    outline:none;
+    border-color: #5bd183;
+    border-width: 3px;
+}
